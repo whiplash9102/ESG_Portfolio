@@ -1,0 +1,10 @@
+{
+    "markets": ["XPAR", "XAMS", "XBRU", "XMAD", "XNYS", "XNAS"],
+    "currency": "EUR",
+    "history_start": "2025-05-01",
+    "history_end": "2026-02-23",
+    "min_esg_score": 50,
+    "top_n_liquidity": 50,
+    "top_n": 100
+
+}

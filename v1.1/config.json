@@ -1,0 +1,10 @@
+{
+    "app_key": "YOUR_REFINITIV_APP_KEY_HERE",
+    "markets": ["XPAR", "XAMS", "XBRU", "XMAD"],
+    "currency": "EUR",
+    "history_start": "2023-01-01",
+    "history_end": "2025-12-31",
+    "min_esg_score": 0.1,
+    "top_n_liquidity": 50,
+    "top_n":100
+}
