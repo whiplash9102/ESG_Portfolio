@@ -1,0 +1,14 @@
+Symbol,Description,RegionBucket,MarketValue,WeightPct,ProfitLoss,ProfitLossPercentage,DeskBucket,DeskAction
+FDX,Fedex Corp,US-focused,6185247.38405891,10.16376439882898,-408043.75,-6.19,Cut / de-risk now,CUT hard
+SCCO,Southern Copper Corporation,US-focused,2867381.47526159,4.711758147497225,-547681.18,-16.04,Hard cut / thesis failed,EXIT / thesis broken
+MT,ARCELORMITTAL,Europe-linked,5758681.7,9.462820225670459,-798280.72,-12.17,Hard cut / thesis failed,EXIT Europe-linked sleeve
+FTI,TechnipFMC plc,Europe-linked,4124807.30310468,6.777993993801077,-268354.65,-6.11,Reduce / tight leash,EXIT Europe-linked sleeve
+TPL,Texas Pacific Land Corporation,US-focused,2260819.01563106,3.71503844494374,21659.56,0.97,Flat / neutral,HOLD / neutral
+HSY,Hershey Company,US-focused,5217504.82711106,8.57354387298742,-260423.04,-4.75,Hold only with thesis,HOLD only if thesis intact
+PCG,PG&E Corp.,US-focused,5949618.91228523,9.776573374111672,-238901.09,-3.86,Hold only with thesis,HOLD only if thesis intact
+HWM,Howmet Aerospace Inc,US-focused,3877483.52925979,6.371584935035324,-185247.38,-4.56,Hold only with thesis,HOLD only if thesis intact
+EIX,Edison International,US-focused,6180080.09301124,10.155273367585176,-179993.97,-2.83,Hold only with thesis,HOLD only if thesis intact
+GRMN,Garmin Ltd,US-focused,4969621.49593076,8.166215334599979,-133078.41,-2.61,Hold only with thesis,HOLD only if thesis intact
+OMC,"Omnicom Group, Inc.",US-focused,5120010.3345821,8.413338307919547,-4822.8,-0.09,Hold only with thesis,HOLD only if thesis intact
+AD,Agilent Technologies Inc.,US-focused,5489299.40145545,9.020164007476463,96283.86,1.79,Relative strength,KEEP; add only on strength
+TPR,Tapestry Inc,US-focused,2855315.85066529,4.69193158954296,-179460.02,-5.91,Reduce / tight leash,REDUCE
